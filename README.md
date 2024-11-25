@@ -34,4 +34,4 @@ docker run --name mongodump-s3-service \
 		   mongodump-s3-service:latest
 ```
 
-### <b>Note: Please refer .sample.env for environment variables that are needed to create .env file</b>
+### <b>Note: Please refer .env.example for environment variables that are needed to create .env file</b>
